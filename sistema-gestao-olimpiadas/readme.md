@@ -1,7 +1,7 @@
 # Sistema de Gestão das Olimpíadas (SGO)
 > **Alunos:** Estevão de Faria e Lorrayne Marayze
 
-> **Professor:** João Paulo Aramuni
+> **Professor:** João Paulo Carneiro Aramuni
 
 ### Descrição do Sistema
 Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para coordenar os diferentes aspectos do evento. Este sistema deve permitir o gerenciamento de competições, inscrições de atletas, alocação de locais para as provas, e controle de resultados.
