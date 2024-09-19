@@ -37,7 +37,10 @@ UC7: Como espectador ou imprensa, quero acompanhar o cronograma das competiçõe
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.jpeg)
 
 ### Diagrama de Componentes
-![Diagrama de Caso de Uso](imagens/diagrama-de-componentes.jpeg)
+![Diagrama de Componentes](imagens/diagrama-de-componentes.jpeg)
 
 ### Diagrama de Classes e de Pacotes
-![Diagrama de Caso de Uso](imagens/diagrama-de-classes-e-de-pacotes.jpeg)
+![Diagrama de Classes e de Pacotes](imagens/diagrama-de-classes-e-de-pacotes.jpeg)
+
+### Diagrama de Implantação
+![Diagrama de Implantação](imagens/diagrama-de-implantacao.jpeg)
